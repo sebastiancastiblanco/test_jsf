@@ -1,4 +1,4 @@
-package test_jsf;
+package com.manageBeanUI;
 
 import java.io.Serializable;
 
